@@ -1,6 +1,8 @@
 baidumap
 ========
-
+Ahead cui :
+  Forked from badbye, alter function 'getCoordinate.R' for new accoount from BaiduMap API service AK
+---------------------------------------------------------------------------------------------------------
 R interface of baidu map api，just like ggmap but get map from baidu api instead of google or openstreet.
 
 ## Installation
